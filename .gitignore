@@ -25,3 +25,4 @@ Thumbs.db
 
 # Local exports (do not publish)
 response.pdf
+compile.py
