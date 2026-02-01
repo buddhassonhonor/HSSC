@@ -1,0 +1,16 @@
+# Do not commit editorial correspondence / author-identifying files
+cover_letter.*
+editor.md
+response.md
+plan.md
+HSSC.pdf
+HSSC.aux
+HSSC.bbl
+HSSC.blg
+HSSC.log
+HSSC.out
+HSSC.spl
+
+# OS / tooling
+.DS_Store
+Thumbs.db
