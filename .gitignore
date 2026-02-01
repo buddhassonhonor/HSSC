@@ -18,3 +18,10 @@ HSSC.spl
 # OS / tooling
 .DS_Store
 Thumbs.db
+
+# LaTeX / build artifacts
+*.fdb_latexmk
+*.fls
+
+# Local exports (do not publish)
+response.pdf

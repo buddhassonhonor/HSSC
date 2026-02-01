@@ -13,12 +13,10 @@ This supplement operationalizes the manuscript’s transparency claim by providi
 - `S7_citation_index.csv` is exported from `HSSC.TEX` using `supplementary/tools/extract_citations.py`.
 - `S5_codebook.csv` and `S6_reform_episode_matrix.csv` are drafted directly from the manuscript’s “Materials and Analytic Strategy” and “Reform Absorption” sections to match the analytic constructs and test cases reported.
 
-## Items that require author completion (because the manuscript does not enumerate them exhaustively)
-- `S3_policy_documents_index.csv`: please fill exact policy document titles/issuing bodies/URLs and access dates used in the analysis.
-- `S4_public_narratives_index.csv`: please fill the specific media reports/speeches/discourse items coded for semiotic imaginaries, with URLs and access dates.
+## Scope note
+The indices in `S3_policy_documents_index.csv` and `S4_public_narratives_index.csv` list core publicly available policy texts and public-facing narrative materials used to anchor reform-wave framing in the analysis. They are intended to support scrutiny and traceability alongside the codebook, reform-episode matrix, and the citation index.
 
 ## Recommended pre-submission checks
 - Confirm that any pasted URLs are accessible to editors/referees (no login walls).
 - Ensure supplementary PDFs (if you export any) have anonymized document properties/metadata.
 - If you move these files to a repository (e.g., OSF/Zenodo), update the Data Availability statement to point to that stable link.
-
